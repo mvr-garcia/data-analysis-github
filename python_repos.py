@@ -29,4 +29,3 @@ for repo_dict in repo_dicts:
     print("Repository:", repo_dict["html_url"])
     print("Description:", repo_dict["description"])
 
-# Pág. 429 - Monitorando os limites
